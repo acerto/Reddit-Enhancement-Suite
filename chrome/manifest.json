@@ -27,7 +27,8 @@
 	},
 	"content_scripts": [{
 		"matches": [
-			"https://*.reddit.com/*"
+			"https://*.reddit.com/*",
+			"https://*.thedonald.win/*"
 		],
 		"all_frames": true,
 		"exclude_matches": [
