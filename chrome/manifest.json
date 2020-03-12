@@ -61,6 +61,7 @@
 	}],
 	"permissions": [
 		"https://*.reddit.com/*",
+		"https://*.thedonald.win/*",
 		"cookies",
 		"identity",
 		"tabs",
